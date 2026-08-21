@@ -1,0 +1,4 @@
+{
+    "name": "Java 17 - Modelos e Linguagem de Programacao III",
+    "image": "mcr.microsoft.com/devcontainers/java:1-17-bookworm"
+}
